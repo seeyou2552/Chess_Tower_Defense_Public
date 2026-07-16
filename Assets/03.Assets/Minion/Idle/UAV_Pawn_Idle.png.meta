@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: a83ddf9f0ce4b834a88aa62f0fcb0d68
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d115664b708449e42a273d2bf8cb7662
+      internalID: 1252213243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2200
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828ffb37a9640ef48abc45ba49ea113f
+      internalID: -503578802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2200
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd157469b8ab14fb7e106c1396a23e
+      internalID: 1804009059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2200
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911687cecc4a5734a816ea03fccd3089
+      internalID: -135727812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2200
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6bc307df11e714b91c99f0e283f9b9
+      internalID: 203085736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1650
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9736ac1736ae78f4fb41e86ef8705697
+      internalID: -522751246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1650
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8fad13d2ab41c4089b6e0344cb4ad5
+      internalID: 1263795470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1650
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e726b1f53010643a1f796c9117af3f
+      internalID: 288850913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1650
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712aaaa447bd1e44f93879897a383871
+      internalID: -310162821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1650
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6125a90a037a5cf408b7bd7094874f3d
+      internalID: -1558557545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873c7d3dca994fa4db1579eaf1980cd0
+      internalID: 996711002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1100
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce6b2d18143cff40a6dcc19e7c732dc
+      internalID: -1268256731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1100
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5126ea720593e44eac58cd02a4b6733
+      internalID: 883790128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1100
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9045540e5542784eaa3c0eaf44b2e9c
+      internalID: 1410003028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1100
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e203898d9514554abf6bf9203a7cf70
+      internalID: -1835049996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972793f57efc8154d977b4525708c811
+      internalID: -1627256850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 550
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9958b1eaeb163da4f8b8d8b15c3465c9
+      internalID: 2123527221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 550
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cc29decae356c4e84615372e1d1388
+      internalID: 644492265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 550
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e408b171c9caae43993559f4491abf2
+      internalID: -263666839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 550
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96fd6a54b4aa9e4582b1ff01e52bdff
+      internalID: -1675507506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f222cadcabbc644a281a3ee2889716
+      internalID: 1549232968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45de274ce0f234e419954217efcd1256
+      internalID: -1451995319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4192f3de68ada64f8635586ee89a642
+      internalID: 639985327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd27b81ecd84a154d980c91e46d9e59c
+      internalID: -1801408426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAV_Pawn_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 0
+        width: 492
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c676e21f1fa375746aa9bf8ff9a62aaa
+      internalID: -1363323428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UAV_Pawn_Idle_0: 1252213243
+      UAV_Pawn_Idle_1: -503578802
+      UAV_Pawn_Idle_10: 996711002
+      UAV_Pawn_Idle_11: -1268256731
+      UAV_Pawn_Idle_12: 883790128
+      UAV_Pawn_Idle_13: 1410003028
+      UAV_Pawn_Idle_14: -1835049996
+      UAV_Pawn_Idle_15: -1627256850
+      UAV_Pawn_Idle_16: 2123527221
+      UAV_Pawn_Idle_17: 644492265
+      UAV_Pawn_Idle_18: -263666839
+      UAV_Pawn_Idle_19: -1675507506
+      UAV_Pawn_Idle_2: 1804009059
+      UAV_Pawn_Idle_20: 1549232968
+      UAV_Pawn_Idle_21: -1451995319
+      UAV_Pawn_Idle_22: 639985327
+      UAV_Pawn_Idle_23: -1801408426
+      UAV_Pawn_Idle_24: -1363323428
+      UAV_Pawn_Idle_3: -135727812
+      UAV_Pawn_Idle_4: 203085736
+      UAV_Pawn_Idle_5: -522751246
+      UAV_Pawn_Idle_6: 1263795470
+      UAV_Pawn_Idle_7: 288850913
+      UAV_Pawn_Idle_8: -310162821
+      UAV_Pawn_Idle_9: -1558557545
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

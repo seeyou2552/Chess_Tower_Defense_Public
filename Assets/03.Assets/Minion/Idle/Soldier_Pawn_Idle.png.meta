@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: cf31391e5aad397489ce088da540daf0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b68a8385f0a0c48ac0db281f86241f
+      internalID: -954830502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 879
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9299151bebc7de549bd0c2b481a39909
+      internalID: 1348581126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 879
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c67b6ea5e30d745b6a9b82d8f13b8b
+      internalID: -539270032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 879
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcc68bc4bea36941beeef2c49e20246
+      internalID: -690274841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 879
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d457d5a6c5971441a19eb984aac2926
+      internalID: -403772325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d99691502f024299a01b9495e354e
+      internalID: -1348912124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 660
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1e7c6a8faefb545bd215529f2103ec
+      internalID: -221032664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 660
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25a149ccf08e1e43b7c646fd453b6ec
+      internalID: 698186172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 660
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a2b49dfaa599143a3c75266df3023e
+      internalID: 807804538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 660
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d2aaaade65e1a4bb976667f7f3bc25
+      internalID: 89587492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fce12683a19e840b31f6fc6a702b8d
+      internalID: -855379266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 441
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1d95d52f2b89f429a07e3ba6f0f30c
+      internalID: 1635633956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 441
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218d50664d4f1b64b950948d6367c60f
+      internalID: 484728111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 441
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092ea9d48d1dd1e428548b50b2e01278
+      internalID: -1988748983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 441
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6cf183d181ba84b8a046341e3d12eb
+      internalID: -1884336599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b3644af9338da4283b8aeb6f93cce0
+      internalID: -2050567338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 222
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf4e396ed663546a372fe2b195d32a
+      internalID: 1012568720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 222
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f67d3f219a087408e7ee2ecb9825d1
+      internalID: -1307373533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 222
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7f0761551e0904699c08e512246a87
+      internalID: 1783970371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 222
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5ede10c45041e41ba3f9632be065a1
+      internalID: -1734189108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1bcabab3773642ba77f927cb216fc
+      internalID: 580547959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e0a5a2f49fac34ea477295a598478c
+      internalID: -1778592737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d8f06106b283545b0baa8156dd04aa
+      internalID: 84156321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 3
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142b5f2295fb45d4e8f16a7d632f922f
+      internalID: -695665996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Pawn_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3
+        width: 195
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477480841c7a84f42bc333c318bc85fc
+      internalID: -1736959306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Soldier_Pawn_Idle_0: -954830502
+      Soldier_Pawn_Idle_1: 1348581126
+      Soldier_Pawn_Idle_10: -855379266
+      Soldier_Pawn_Idle_11: 1635633956
+      Soldier_Pawn_Idle_12: 484728111
+      Soldier_Pawn_Idle_13: -1988748983
+      Soldier_Pawn_Idle_14: -1884336599
+      Soldier_Pawn_Idle_15: -2050567338
+      Soldier_Pawn_Idle_16: 1012568720
+      Soldier_Pawn_Idle_17: -1307373533
+      Soldier_Pawn_Idle_18: 1783970371
+      Soldier_Pawn_Idle_19: -1734189108
+      Soldier_Pawn_Idle_2: -539270032
+      Soldier_Pawn_Idle_20: 580547959
+      Soldier_Pawn_Idle_21: -1778592737
+      Soldier_Pawn_Idle_22: 84156321
+      Soldier_Pawn_Idle_23: -695665996
+      Soldier_Pawn_Idle_24: -1736959306
+      Soldier_Pawn_Idle_3: -690274841
+      Soldier_Pawn_Idle_4: -403772325
+      Soldier_Pawn_Idle_5: -1348912124
+      Soldier_Pawn_Idle_6: -221032664
+      Soldier_Pawn_Idle_7: 698186172
+      Soldier_Pawn_Idle_8: 807804538
+      Soldier_Pawn_Idle_9: 89587492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

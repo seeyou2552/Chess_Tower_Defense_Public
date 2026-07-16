@@ -1,0 +1,84 @@
+# =========================
+# Unity Generated
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# =========================
+# User Settings
+# =========================
+
+UserSettings/
+
+# =========================
+# Visual Studio / Rider
+# =========================
+
+.vs/
+.idea/
+.vscode/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Crash / Cache
+# =========================
+
+sysinfo.txt
+
+# =========================
+# Addressables
+# =========================
+
+Assets/AddressableAssetsData/*/*.bin*
+
+# =========================
+# Android
+# =========================
+
+.gradle/
+*.apk
+*.aab
+
+# =========================
+# Auto Generated
+# =========================
+
+ExportedObj/
+
+# =========================
+# Ignore Test Results
+# =========================
+
+TestResults/
+
+# =========================
+# Optional
+# =========================
+
+*.stacktrace

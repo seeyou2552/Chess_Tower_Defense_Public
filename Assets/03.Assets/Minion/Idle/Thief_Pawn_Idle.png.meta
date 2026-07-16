@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: f443f09e1f1be094ca4ee7b910686545
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2481
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924979acee7f6754fbeb592f9ca1095f
+      internalID: -2052639031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2481
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6846010888bac3841878d383bb7568f6
+      internalID: -460039688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2481
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a540e69044b279a4d8a066ed8b0079c9
+      internalID: -306314993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2481
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3063bd73f108045b727b42fc837f32
+      internalID: -61560866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2481
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29648d946a68bb408c8a4bb7edecd73
+      internalID: -1447227784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1862
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377bf19cd73584e44a8266918fc1300a
+      internalID: 960372278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1862
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc65f513e894f4f479c8db6bd7225cce
+      internalID: -504109247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1862
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c68fc51585a24dbd8a24109df9234
+      internalID: 1509601991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1862
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67943e052dca82846915944e4a0492c2
+      internalID: 1766391046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1862
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9c5a2d1ddff4f4985a8aa6f37b9074
+      internalID: 339713376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1243
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a369a004294bf040a095e6e15d348f4
+      internalID: -1272335958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1243
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f07af3ccea058d49a9cdb4935e8943b
+      internalID: 227104200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1243
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5502e6752807684ca90162b3f11b96d
+      internalID: 1543544627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1243
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d56474a3d77343bd6e621d721fe14
+      internalID: 953985144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1243
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a0247f1df855348bcc062624716aa2
+      internalID: 54998422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874a697fa2f53cf4c9ca26e06019f32b
+      internalID: 1957044504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 624
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb56185cc077f1542ba2d6cefa4abd9d
+      internalID: -542578930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 624
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831beed40eedfd245997286175ca6673
+      internalID: -1427871426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 624
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ae8553f1329449993f312ed46670d
+      internalID: 888796915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 624
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bda856db72d9841ad13c760c853833
+      internalID: -110204773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77489c1ef99b5bd4b885d0e31cbff580
+      internalID: 61414914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 5
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d544c41f9702cb4aa220215f4c6f793
+      internalID: 759813731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 5
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17422d1f84790d42af1525850affa1d
+      internalID: -1746072860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 5
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8620002e128989f4bb5546608cac6e42
+      internalID: -720896930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Pawn_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 5
+        width: 395
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9291630a1718cc44a97d3d504bcfae11
+      internalID: 1131051522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Thief_Pawn_Idle_0: -2052639031
+      Thief_Pawn_Idle_1: -460039688
+      Thief_Pawn_Idle_10: -1272335958
+      Thief_Pawn_Idle_11: 227104200
+      Thief_Pawn_Idle_12: 1543544627
+      Thief_Pawn_Idle_13: 953985144
+      Thief_Pawn_Idle_14: 54998422
+      Thief_Pawn_Idle_15: 1957044504
+      Thief_Pawn_Idle_16: -542578930
+      Thief_Pawn_Idle_17: -1427871426
+      Thief_Pawn_Idle_18: 888796915
+      Thief_Pawn_Idle_19: -110204773
+      Thief_Pawn_Idle_2: -306314993
+      Thief_Pawn_Idle_20: 61414914
+      Thief_Pawn_Idle_21: 759813731
+      Thief_Pawn_Idle_22: -1746072860
+      Thief_Pawn_Idle_23: -720896930
+      Thief_Pawn_Idle_24: 1131051522
+      Thief_Pawn_Idle_3: -61560866
+      Thief_Pawn_Idle_4: -1447227784
+      Thief_Pawn_Idle_5: 960372278
+      Thief_Pawn_Idle_6: -504109247
+      Thief_Pawn_Idle_7: 1509601991
+      Thief_Pawn_Idle_8: 1766391046
+      Thief_Pawn_Idle_9: 339713376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
