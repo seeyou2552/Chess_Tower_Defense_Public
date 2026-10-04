@@ -38,8 +38,11 @@
 * **성장과 업그레이드**: 기물 고유의 업그레이드 트리를 제공하며, 인게임 재화(Gold)를 통해 실시간으로 레벨을 확장하여 시너지 효과를 창출합니다.
 
 ### ♟️ 기본 조작법
-![Stage Select](READMEImg/StageSelect.png)
 * **스테이지 선택**: 오른쪽 Play 버튼을 누르면 왼쪽 체스판에 Stage를 선택할 수 있는 UI가 생성됩니다. 방향 버튼을 통해 Stage를 변경할 수 있으며, Level아래에 있는 Play 버튼을 누르면 선택된 스테이지를 시작합니다.
+  ![Stage Select](READMEImg/StageSelect.png)
+  
+* **기물 배치**: 하단의 기물을 1초동안 터치를 유지하면 기물이 생성됩니다. 이후 드래그하여 흰색 타일 위에 놓으면 해당 위치에 기물이 배치됩니다.
+![Placement](READMEImg/Batch.png)
 </details>
 
 <details>
